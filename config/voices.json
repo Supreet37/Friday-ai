@@ -1,0 +1,16 @@
+{
+  "languages": {
+    "english": {
+      "code": "en",
+      "engine": "piper",
+      "model_path": "../models/tts/piper/en_US-lessac-medium.onnx",
+      "is_female": true
+    },
+    "hindi": {
+      "code": "hi",
+      "engine": "mms",
+      "model_path": "../models/tts/mms-hindi-female",
+      "is_female": true
+    }
+  }
+}
