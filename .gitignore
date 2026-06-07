@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Personal data
+memory/
+temp/
+config/contacts.json
+.env
+
+# Models (too large)
+models/*.onnx
+models/*.bin
+models/*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# Assets (personal)
+assets/*.png
+assets/*.gif
+
+# Logs
+*.log
+
+venv/
+
+*.onnx
+*.safetensors
