@@ -127,7 +127,6 @@ The `config/` directory is your control panel for everything about F.R.I.D.A.Y.'
 ## Demo
 
 <div style="display:"flex">
-<img src="demo1.png" />
 <img src="demo2.png" />
 </div>
 
