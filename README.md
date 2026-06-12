@@ -124,6 +124,13 @@ The `config/` directory is your control panel for everything about F.R.I.D.A.Y.'
 | `modules_enabled` | Toggle individual modules on or off |
 | `assistant_name` | Change what F.R.I.D.A.Y. calls herself in responses |
 
+## Demo
+
+<div style="display:"flex">
+<img src="demo1.png" width="200px" />
+<img src="demo2.png" width="200px" />
+</div>
+
 ---
 
 ## 📦 Modules
@@ -189,5 +196,3 @@ Let's build something extraordinary together. 🚀
 
 </div>
 
-<img src="demo1.png" width="200px" />
-<img src="demo2.png" width="200px" />
