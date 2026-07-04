@@ -179,7 +179,7 @@ This project is open source and free to use. You are welcome to modify, distribu
 
 | Developer | GitHub |
 |---|---|
-| Supreet37 | [@Supreet37](https://github.com/Supreet37) |
+| Supreet37 | [@Supreet37](https://github.com/Supreet37) |(Team Leader)
 | ompreet-s | [@ompreet-s](https://github.com/ompreet-s) |
 | sudeshna-24 | [@sudeshna-24](https://github.com/sudeshna-24) |
 
